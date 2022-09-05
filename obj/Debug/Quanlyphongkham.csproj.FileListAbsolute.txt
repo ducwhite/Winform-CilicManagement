@@ -1,0 +1,1214 @@
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe.config
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.pdb
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.AssemblyReference.cache
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucdonvigd.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucnguoisd.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDSNV.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphanquyen.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphieukhambenh.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphieunhapthuoc.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.Properties.Resources.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.GenerateResource.cache
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe.licenses
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.CoreCompileInputs.cache
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.pdb
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.form.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucchucvu.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucdv.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmhoadon.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.FrmDangKy.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDangNhap.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmMain.resources
+C:\Users\huyba\source\repos\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmPhieuchupXquan.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe.config
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.pdb
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.AssemblyReference.cache
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.form.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.FrmDangKy.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDangNhap.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucchucvu.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucdonvigd.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucnguoisd.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucdv.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDSNV.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmMain.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphanquyen.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmPhieuchupXquan.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphieukhambenh.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphieunhapthuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.Properties.Resources.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmhoadon.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.GenerateResource.cache
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe.licenses
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.CoreCompileInputs.cache
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.pdb
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe.config
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.pdb
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.AssemblyReference.cache
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.form.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.FrmDangKy.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDangNhap.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucchucvu.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucdonvigd.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucnguoisd.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucdv.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDSNV.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmMain.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphanquyen.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmPhieuchupXquan.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphieukhambenh.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphieunhapthuoc.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.Properties.Resources.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmhoadon.resources
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.GenerateResource.cache
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe.licenses
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.CoreCompileInputs.cache
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.pdb
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\Quanlyphongkham (edit)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDoiMatKhau.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe.config
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.pdb
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.AssemblyReference.cache
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.form.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.FrmDangKy.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDangNhap.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucchucvu.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucdonvigd.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucnguoisd.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmdanhmucdv.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDoiMatKhau.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDSNV.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmMain.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphanquyen.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmPhieuchupXquan.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphieukhambenh.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphieunhapthuoc.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.Properties.Resources.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmhoadon.resources
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.GenerateResource.cache
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe.licenses
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.CoreCompileInputs.cache
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe
+C:\Users\Do Minh Kha\Downloads\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.pdb
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmbacsy.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmBAOCAODOANHTHU.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmchucvu.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmCTHD.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCTPhieuNT.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmctsddv.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.FrmDangKy.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDangNhap.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDanhmucnhacungcap.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmDanhMucThuoc.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDantoc.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDichVu.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmDMLoaiThuoc.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDSBN.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmHoadonTT.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmKhoadieutri.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmLoaikham.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmMain.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmNV.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieucanLS.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieukhambenh.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieunhapthuoc.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhongKham.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.Properties.Resources.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.GenerateResource.cache
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe.licenses
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\RdlCompile.cache
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\RdlCompile.compiled
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.CoreCompileInputs.cache
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.pdb
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDoiMatKhau.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe.config
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.pdb
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EnvDTE.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\stdole.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.MSXML.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.AssemblyReference.cache
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtiemkiembenhnhan.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtiemkiembacsy.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtimkiemnv.resources
+D:\Đồ án c#\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtimkiemthuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmbacsy.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmBAOCAODOANHTHU.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmchucvu.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmCTHD.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCTPhieuNT.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.FrmDangKy.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDangNhap.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDanhmucnhacungcap.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmDanhMucThuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDantoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDichVu.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmDMLoaiThuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDoiMatKhau.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDSBN.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmHoadonTT.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmKhoadieutri.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmLoaikham.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmMain.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmNV.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieucanLS.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieukhambenh.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieunhapthuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhongKham.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtiemkiembacsy.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtiemkiembenhnhan.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtimkiemnv.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtimkiemthuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.Properties.Resources.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.GenerateResource.cache
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe.licenses
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\RdlCompile.cache
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\RdlCompile.compiled
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.CoreCompileInputs.cache
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.pdb
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe.config
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.pdb
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EnvDTE.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\stdole.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDanhSachTaiKhoan.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmLoading.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCT_TOATHUOC.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCT_CungCapThuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmToaThuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.AssemblyReference.cache
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe.config
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.pdb
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EnvDTE.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\stdole.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.MSXML.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.AssemblyReference.cache
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCTPhieuNT.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCT_TOATHUOC.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmbacsy.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmBAOCAODOANHTHU.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmchucvu.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCT_CungCapThuoc.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.FrmDangKy.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDangNhap.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDanhmucnhacungcap.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmDanhMucThuoc.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDanhSachTaiKhoan.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDantoc.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDichVu.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmDMLoaiThuoc.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDoiMatKhau.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDSBN.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmHoadonTT.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmKhoadieutri.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmLoading.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmLoaikham.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmMain.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmNV.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieucanLS.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieukhambenh.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieunhapthuoc.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhongKham.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtiemkiembacsy.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtiemkiembenhnhan.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtimkiemnv.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtimkiemthuoc.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmToaThuoc.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.Properties.Resources.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.GenerateResource.cache
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe.licenses
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\RdlCompile.cache
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\RdlCompile.compiled
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.CoreCompileInputs.cache
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.pdb
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmctsddv.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphieuketqua.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCT_HoaDon.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.RichEdit.v21.1.Export.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraReports.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Images.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraReports.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.XtraReport1.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe.manifest
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.application
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.FrmPhongCho.resources
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe.manifest
+D:\Đồ án c#\Quanlyphongkham (1-11)\Quanlyphongkham (1-11)\Quanlyphongkham\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.application
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe.config
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe.manifest
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.application
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.exe
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Quanlyphongkham.pdb
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.DataAccess.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.RichEdit.v21.1.Export.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Xpo.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraReports.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.CodeParser.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\EnvDTE.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\stdole.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.DataAccess.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Xpo.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraReports.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.AssemblyReference.cache
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCTPhieuNT.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCT_HoaDon.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCT_TOATHUOC.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmbacsy.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmBAOCAODOANHTHU.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmchucvu.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmCT_CungCapThuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.FrmDangKy.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDangNhap.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDanhmucnhacungcap.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmDanhMucThuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDanhSachTaiKhoan.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDantoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDichVu.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmDMLoaiThuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmDoiMatKhau.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmDSBN.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmHoadonTT.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmKhoadieutri.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmLoading.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmLoaikham.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmMain.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmNV.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieucanLS.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmphieuketqua.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieukhambenh.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhieunhapthuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.FrmPhongCho.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmPhongKham.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtiemkiembacsy.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtiemkiembenhnhan.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtimkiemnv.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.frmtimkiemthuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.FrmToaThuoc.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\QUANLYPHONGKHAMTU.frmctsddv.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.Properties.Resources.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.XtraReport1.resources
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.GenerateResource.cache
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe.licenses
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\RdlCompile.cache
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\RdlCompile.compiled
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.csproj.CoreCompileInputs.cache
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe.manifest
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.application
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.exe
+C:\Users\Dang Minh Duc\Downloads\Quanlyphongkham (final) (2) (6-11)\Quanlyphongkham\Quanlyphongkham\obj\Debug\Quanlyphongkham.pdb
